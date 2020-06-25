@@ -1,7 +1,7 @@
 ### Add these to your .bash_profile or .bashrc file if you feel like it ###
 
-# build arity patterns (edit this with your own local paths)
-PATTERN='/Users/user/path/to/1274-009-05-arity-cms/web/wp-content/themes/arity/resources/assets/static/patterns/2.4.0'
+# build arity patterns (edit this with your own local paths and current version)
+PATTERN='/Users/user/path/to/1274-009-05-arity-cms/web/wp-content/themes/arity/resources/assets/static/patterns/X.X.X'
 SRC='/Users/user/path/to/1274-arity-design-system-bb/public/'
 SLASH='/'
 
